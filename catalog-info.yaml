@@ -11,3 +11,14 @@ spec:
   type: service
   lifecycle: experimental
   owner: dev-support
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dev-support
+  title: Development Support Team
+  description: The development support team
+spec:
+  type: team
+children: []

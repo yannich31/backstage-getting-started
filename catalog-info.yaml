@@ -4,6 +4,8 @@ metadata:
   name: todo-react
   title: To-do in React
   description: A web-based To-do application, written in React. For demonstration purposes only!
+  annotations:
+    backstage.io/techdocs-ref: value
   tags:
     - react
     - website

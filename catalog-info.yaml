@@ -5,7 +5,7 @@ metadata:
   title: To-do in React
   description: A web-based To-do application, written in React. For demonstration purposes only!
   annotations:
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
   tags:
     - react
     - website

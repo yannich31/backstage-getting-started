@@ -5,7 +5,6 @@
     - https://backstage.io/docs/getting-started/
     - https://www.kosli.com/blog/implementing-backstage-1-getting-started/
     - install build-essentials under alma9 --> https://linux.how2shout.com/how-to-install-build-tools-on-almalinux-or-rockylinux-8-9/
-    - 
 
 
 
@@ -332,5 +331,6 @@ Restart Backstage from the terminal, by stopping it with Ctrl+C, and starting it
 
 **WARNING:**
 A ce stade, le build de Backstage part en vrille avec des erreurs d'intégration à GitHub.
+
 
 Un update de Backstage en utilisant Backstage-CLI remonte également des erreurs.

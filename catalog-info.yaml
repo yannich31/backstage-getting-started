@@ -1,14 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: todo-react
-  title: To-do in React
+  name: test-import-composant
+  title: Test import composant et TechDocs
   description: A web-based To-do application, written in React. For demonstration purposes only!
   annotations:
     backstage.io/techdocs-ref: dir:.
   tags:
     - react
     - website
+    - poc
+    - test
 spec:
   type: service
   lifecycle: experimental
